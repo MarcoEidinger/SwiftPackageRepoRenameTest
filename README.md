@@ -1,6 +1,6 @@
 # MyPackage
 
-A description of this package. See [Examples](#Examples) for more details or for help view [API Reference](#APIReferences)
+A description of this package. See [Examples](#Examples) for more details or for help view [API Reference](#API%20References)
 
 ## Requirements
 
