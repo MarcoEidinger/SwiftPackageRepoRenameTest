@@ -3,6 +3,7 @@ name: Execute Swift package command-line tool
 on:
   push:
     branches: [ main ]
+  workflow_dispatch:
 
 jobs:
   run-cli-tool:
